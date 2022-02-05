@@ -240,4 +240,4 @@ TSWLatexianTemp*
 
 # generated if using elsarticle.cls
 *.spl
-slides.pdf
+*.pdf
